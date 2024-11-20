@@ -15,7 +15,7 @@ import { mailOutline, mailSharp, paperPlaneOutline, paperPlaneSharp, heartOutlin
 export class AppComponent {
   public appPages = [
     { title: 'Home', url: '/folder/inbox', icon: 'mail' },
-    { title: 'Sobre nós', url: '/folder/outbox', icon: 'paper-plane' },
+    { title: 'Sobre', url: '/folder/outbox', icon: 'paper-plane' },
     { title: 'Serviços', url: '/folder/favorites', icon: 'heart' },
     { title: 'Fotos', url: '/folder/archived', icon: 'archive' },
     { title: 'Agendamento', url: '/folder/trash', icon: 'trash' },
