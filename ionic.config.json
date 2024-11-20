@@ -1,5 +1,7 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {},
-  "type": "angular-standalone"
+  "name": "garden-wedding-2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
 }
